@@ -1,2 +1,0 @@
-# MyPage
-First github pages
